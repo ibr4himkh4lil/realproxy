@@ -328,6 +328,8 @@ copies of the Software...
 
 ibrahimkhalil - @ibr4himkh4lil
 
+Dev Info: https://ibrahimkholil.bio.link
+
 Project Link: https://github.com/ibr4himkh4lil/liveproxy
 
 Live Site: https://liveproxy.vercel.app
